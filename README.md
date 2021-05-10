@@ -1,0 +1,1 @@
+This utility can login into https://selfregistration.cowin.gov.in, track vaccine availability and automatically book a slot if you are logged in.
